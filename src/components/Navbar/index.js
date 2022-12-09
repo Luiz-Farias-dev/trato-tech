@@ -1,3 +1,4 @@
+import Busca from '../Busca/index';
 import styles from './Navbar.module.scss';
 import {ReactComponent as Logo} from '../../assets/logo.svg';
 import classNames from 'classnames';
@@ -22,7 +23,7 @@ export default function Navbar() {
         </div>
       </div>
       <div className={styles.busca}>
-
+        <Busca />
       </div>
       <div className={styles.icones}>
         <a href='/carrinho'>
