@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/app/assets/images/logo.png](https://github.com/Luiz-Farias-dev/trato-tech/blob/main/src/assets/readme/logo.jpg))
+![Logo of the project](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/app/assets/images/logo.png](https://github.com/Luiz-Farias-dev/trato-tech/blob/main/src/assets/readme/logo.jpg)
 
 
 ## Blog Lucas Fernandes
