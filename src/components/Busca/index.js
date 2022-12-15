@@ -10,7 +10,7 @@ export default function Busca() {
   const location = useLocation();
 
   useEffect(() => {
-    return dispatch(resetarBusca())
+    dispatch(resetarBusca())
   }, [location.pathname, dispatch])
 
   return(
