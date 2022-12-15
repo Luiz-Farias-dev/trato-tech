@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+![Logo of the project]([https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/app/assets/images/logo.png](https://github.com/Luiz-Farias-dev/trato-tech/blob/main/src/assets/readme/logo.jpg))
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Blog Lucas Fernandes
+This is my blog \o/ 
+Enjoy It and I hope you can learn a lot!
 
-In the project directory, you can run:
 
-### `npm start`
+## Technology 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Here are the technologies used in this project.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Ruby version  3.0.0
+* Rails version 6.1.3.2
+* PostgreSQL
+* Webpacker
 
-### `npm test`
+## Services Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Github
+* Heroku
 
-### `npm run build`
+## Ruby Gems
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Devise
+* Bootstrap
+* Kaminari
+* Select2
+* Cancancan
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting started
 
-### `npm run eject`
+* Dependency
+  - Ruby  
+  - Rails
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* To create and build your database accord of the project.
+  - rake db:create db:migrate
+  
+* To create the previous files to use on the project, on the database.
+  - rake db:seed
+  
+* To install the gems.
+  - bundle install
+  
+* To run the project.
+  - rails s
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## How to use
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 1 - When you access, you will see the Home page <3
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Homepage image](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/home.png)
 
-## Learn More
+### 2 - You can also see a lot of information on the Blog posts session.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Posts](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/posts.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 3 - Or access some of the posts :D
 
-### Code Splitting
+![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_1.png)
+![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_2.png)
+![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_3.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 4 - Or you can see my personal Portfolio.
 
-### Analyzing the Bundle Size
+![Portfolio](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/portfolio_1.png)
+![Portfolio](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/portfolio_2.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+The main features of the application are:
+ - Publish Posts.
+ - Learn a lot of information <3
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Links
+  - Deploy on Heroku: https://lucas-dev.com/
+  - Repository: https://github.com/Lucasdfg07/Blog_Lucas_Fernandes
+    - In case of sensitive bugs like security vulnerabilities, please contact
+      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
+      to improve the security and privacy of this project!
 
-### Deployment
+  ## Versioning
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+  1.0.0.0
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  ## Authors
+
+  * **Lucas Siqueira Fernandes** 
+
+  Please follow github and join us!
+  Thanks to visiting me and good coding!
