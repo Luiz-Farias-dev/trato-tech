@@ -35,6 +35,7 @@ export default function Carrinho() {
       <div className={styles.carrinho}>
         {carrinho.map(itemNoCarrinho => <Item key={itemNoCarrinho.id} {...itemNoCarrinho} carrinho />)}
         <div className={styles.total}>
+          <span>O jr é bobao</span>
           <strong>Resumo da compra</strong>
           <span>Subtotal: <strong>R$ {total.toFixed(2)}</strong></span>
         </div>
